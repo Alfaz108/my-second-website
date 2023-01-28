@@ -1,0 +1,663 @@
+.first{
+    display: flex;
+}
+
+.first img{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.first .contact{
+    position: absolute;
+    left: 60%;
+    top: 30%;
+    text-align: right;
+}
+
+.contact h1{
+    font-size: 60px;
+    font-weight:1000;
+    font-family:'Times New Roman';
+    color: black;
+}
+.contact p{
+    font-size: 15px;
+    font-family:'Times New Roman';
+    color: #3d3434
+}
+
+.contact button{
+    border: 0px;
+    background-color: #fa4f06;
+    margin-top: 10px;
+    padding: 15px 25px;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+span{
+    color:#20df7f;
+}
+
+.circle{
+    width:35%;
+    height:400px;
+    margin-top: 260px;
+    margin-left:200px;
+    position: relative;
+    border-radius: 50%;
+    background-color: #FFD4D4;
+}
+
+.second{
+    display: flex;
+}
+.second img{
+    position: absolute;
+    left:180px;
+    width:38%;
+    height: 85%;
+    margin-top: 100px;
+}
+ .fail{
+    margin-top: 250px;
+ }
+.second h1{
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    margin-left: 100px;
+}
+
+.second p{
+    margin-left: 100px;
+    color:rgb(77, 74, 74);
+}
+
+.third h1{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    margin-left: 100px;
+}
+
+.web{
+    width: 18%;
+    text-align: center;
+}
+.web img{
+    width: 32%;
+    height: 32%;
+}
+.web h2{
+    font-size: 22px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    color: black;
+}
+
+.web p{
+    color:rgb(68, 66, 66);
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.java{
+    width: 18%;
+    text-align: center;
+}
+.java img{
+    width: 32%;
+    height: 32%;
+}
+.java h2{
+    font-size: 22px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    color: black;
+}
+
+.java p{
+    color:rgb(68, 66, 66);
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.habit{
+    width: 18%;
+    text-align: center;
+}
+.habit img{
+    width: 32%;
+    height: 32%;
+}
+.habit h2{
+    font-size: 22px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    color: black;
+}
+
+.habit p{
+    color:rgb(68, 66, 66);
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ecommerce{
+    width: 18%;
+    text-align: center;
+}
+.ecommerce img{
+    width: 32%;
+    height: 32%;
+}
+.ecommerce h2{
+    font-size: 22px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    color: black;
+}
+
+.ecommerce p{
+    color:rgb(68, 66, 66);
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.project{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.four #fim{
+    width: 80%;
+    height:250px;
+}
+
+.four{
+    margin-top: 80px;
+    margin-left: 15%;
+    position: relative;
+}
+.four #fim2{
+    width: 70%;
+    height: 250px;
+    position: absolute;
+    right: 350px;
+}
+.call{
+    position: absolute;
+    bottom: 60px;
+    left: 50px;
+}
+
+.call p{
+    color: white;
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+}
+
+.call button{
+    border: none;
+    color: #fa4f06;
+    padding: 18px 35px;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.five{
+    margin-top: 100px;
+    background-color: black;
+}
+.future{
+   
+    width: 40%;
+    margin-left: 200px;
+}
+.future h1{
+    color: white;
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+}
+
+.future p{
+    color:rgba(247, 236, 220, 0.822);
+    font-size: 15px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.Subscribe{
+    width: 40%;
+    margin-left: 200px;
+}
+.Subscribe h1{
+    color: white;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    
+}
+
+.five{
+    display: flex;
+    justify-content: center;
+    padding: 80px;
+}
+.Subscribe #input{
+   width: 50%;
+   height: 10%;
+   border:solid 1px white;
+   border-radius: 10px;
+   padding: 10px 20px;
+   background-color: black;
+   
+}
+
+.Subscribe ::placeholder{
+    color: rgb(219, 201, 201);
+}
+
+.Subscribe button{
+    border: none;
+    color: #fa4f06;
+    padding: 18px 35px;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 15px;
+}
+.six{
+    display: flex;
+}
+
+.six img{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.contact2{
+    position: absolute;
+    left: 60%;
+    margin-top: 10%;
+     text-align: right;
+}
+
+.contact2 h1{
+    font-size: 60px;
+    font-weight:1000;
+    font-family:'Times New Roman';
+    color: black;
+}
+.contact2 p{
+    font-size: 15px;
+    font-family:'Times New Roman';
+    color: #3d3434
+}
+
+.contact2 button{
+    border: 0px;
+    background-color: #fa4f06;
+    margin-top: 10px;
+    padding: 15px 25px;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+
+.seven{
+    display: flex;
+}
+.seven img{
+    position: absolute;
+    left:180px;
+    width:38%;
+    height: 85%;
+    margin-top: 145px;
+}
+
+
+.circle2{
+    width:35%;
+    height:400px;
+    margin-top: 260px;
+    margin-left:200px;
+    position: relative;
+    border-radius: 50%;
+    background-color: #FFD4D4;
+}
+
+.seven{
+    display: flex;
+}
+.seven img{
+    position: absolute;
+    left:180px;
+    width:38%;
+    height: 85%;
+    margin-top: 100px;
+}
+.fail2{
+    margin-top: 250px;
+ }
+.seven h1{
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    margin-left: 100px;
+}
+
+.seven p{
+    margin-left: 100px;
+    color:rgb(77, 74, 74);
+}
+
+
+.eight h1{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    margin-left: 100px;
+}
+
+.web2{
+    width: 18%;
+    text-align: center;
+}
+.web2 img{
+    width: 32%;
+    height: 32%;
+}
+.web2 h2{
+    font-size: 22px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    color: black;
+}
+
+.web2 p{
+    color:rgb(68, 66, 66);
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.java2{
+    width: 18%;
+    text-align: center;
+}
+.java2 img{
+    width: 32%;
+    height: 32%;
+}
+.java2 h2{
+    font-size: 22px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    color: black;
+}
+
+.java2 p{
+    color:rgb(68, 66, 66);
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.habit2{
+    width: 18%;
+    text-align: center;
+}
+.habit2 img{
+    width: 32%;
+    height: 32%;
+}
+.habit2 h2{
+    font-size: 22px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    color: black;
+}
+
+.habit2 p{
+    color:rgb(68, 66, 66);
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ecommerce2{
+    width: 18%;
+    text-align: center;
+}
+.ecommerce2 img{
+    width: 32%;
+    height: 32%;
+}
+.ecommerce2 h2{
+    font-size: 22px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    color: black;
+}
+
+.ecommerce2 p{
+    color:rgb(68, 66, 66);
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.project2{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.nine #fim11{
+    width: 80%;
+    height:250px;
+}
+
+.nine{
+    margin-top: 80px;
+    margin-left: 15%;
+    position: relative;
+}
+.nine #fim22{
+    width: 70%;
+    height: 250px;
+    position: absolute;
+    right: 350px;
+}
+.call2{
+    position: absolute;
+    bottom: 60px;
+    left: 50px;
+}
+
+.call2 p{
+    color: white;
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+}
+
+.call2 button{
+    border: none;
+    color: #fa4f06;
+    padding: 18px 35px;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+
+.ten{
+    margin-top: 100px;
+    background-color: black;
+}
+.future2{
+   
+    width: 40%;
+    margin-left: 200px;
+}
+.future2 h1{
+    color: white;
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+}
+
+.future2 p{
+    color:rgba(247, 236, 220, 0.822);
+    font-size: 15px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.Subscribe2{
+    width: 40%;
+    margin-left: 200px;
+}
+.Subscribe2 h1{
+    color: white;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    
+}
+
+.ten{
+    display: flex;
+    justify-content: center;
+    padding: 80px;
+}
+.Subscribe2 #input{
+   width: 50%;
+   height: 10%;
+   border:solid 1px white;
+   border-radius: 10px;
+   padding: 10px 20px;
+   background-color: black;
+   
+}
+
+.Subscribe2 ::placeholder{
+    color: rgb(219, 201, 201);
+}
+
+.Subscribe2 button{
+    border: none;
+    color: #fa4f06;
+    padding: 18px 35px;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 15px;
+}
+.six1{
+    display: flex;
+}
+
+.six1 img{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.contact3{
+    position: absolute;
+    left: 60%;
+    margin-top: 10%;
+     text-align: right;
+}
+
+.contact3 h1{
+    font-size: 60px;
+    font-weight:1000;
+    font-family:'Times New Roman';
+    color:white;
+}
+.contact3 p{
+    font-size: 15px;
+    font-family:'Times New Roman';
+    color:rgb(189, 181, 181);
+}
+
+.contact3 button{
+    border: 0px;
+    background-color:white;
+    margin-top: 10px;
+    padding: 15px 25px;
+    border-radius: 5px;
+    color: #10A19D;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.call3{
+    position: absolute;
+    bottom: 60px;
+    left: 50px;
+}
+
+.call3 p{
+    color: white;
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+}
+
+.call3 button{
+    border: none;
+    color: #10A19D;
+    padding: 18px 35px;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.Subscribe3{
+    width: 40%;
+    margin-left: 200px;
+}
+.Subscribe3 h1{
+    color: white;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    
+}
+
+
+.Subscribe3 #input{
+   width: 50%;
+   height: 10%;
+   border:solid 1px white;
+   border-radius: 10px;
+   padding: 10px 20px;
+   background-color: black;
+   
+}
+
+.Subscribe2 ::placeholder{
+    color: rgb(219, 201, 201);
+}
+
+.Subscribe3 button{
+    border: none;
+    color: white;
+    padding: 18px 35px;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 15px;
+    background-color: #0a5694;
+}

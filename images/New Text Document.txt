@@ -1,0 +1,16 @@
+<img src="images/person.png" alt="not found">
+        <div class="fail">
+            <h1>My failures of<br>previous year</h1>
+            <p>Contrary to popular belief, Lorem Ipsum is not<br> 
+                simply random text. It has roots in a piece of<br>
+                classical Latin literature from 45 BC, making it over<br> 
+                2000 years old. Richard McClintock.</p>
+
+            <p><span>✓</span>Contrary to popular belief, is not simply.</p>
+            <p><span>✓</span>Contrary to popular belief.</p>
+            <p><span>✓</span>Contrary to popular , is not simply.</p>
+            <p><span>✓</span>Contrary to popular belief, is not simply.</p>
+            <p><span>✓</span>Contrary to popular simply.
+            </p>
+
+        </div>
